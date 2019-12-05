@@ -1,1 +1,1 @@
-print("Saludos Compañeros!")
+print("Saludos Compañeros y compañeras de medlab!")
